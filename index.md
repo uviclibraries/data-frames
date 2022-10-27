@@ -3,7 +3,6 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
 <img src="https://github.com/uviclibraries/data-frames/blob/main/images/pandas-dataframes-logo.svg" style="float:right;width:180px;" alt="Pandas logo">
 
 # Pandas DataFrames in Jupyter Notebooks
