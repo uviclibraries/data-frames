@@ -6,31 +6,30 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Pandas DataFrames in Jupyter Notebooks
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 15 min
+- Hands-on activities: 30-60 min
 
 ## Why TOOL NAME HERE? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Pandas](https://pandas.pydata.org/docs/) is an open-source Python library for data structuring and analysis.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+[Jupyter Notebook](https://jupyter.org/) is a web-based environment for interactive computing that helps researchers and scientists easily view programming output.
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+This workshop uses the [uvic.syzygy.ca](https://uvic.syzygy.ca/) Jupyter Notebook software because it is free for Uvic students and staff to use and avoids the additional hassle of downloading new software. Notebooks are available on [ther platforms](https://en.wikipedia.org/wiki/Notebook_interface).
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives:
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1.Input and output code in Jupyter Notebook
+2. Understand the use cases of the Pandas library
+3. Upload a CSV or Excel file as a dataframe in a python notebook
+4. Output properties of a dataframe
+5. Delete and add rows and columns to a dataframe
+6. Create 1 visualization using the data from the dataframe
+
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
