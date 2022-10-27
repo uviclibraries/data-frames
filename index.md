@@ -14,9 +14,9 @@ nav_order: 1
 
 ## Why Pandas? Why Jupyter Notebook? 
 
-[Pandas](https://pandas.pydata.org/docs/) is an open-source Python library for data structuring and analysis.
+[Pandas](https://pandas.pydata.org/docs/) is an open-source Python library for data structuring and analysis. Its capabilities are flexible and can be integrated with other Python Libraries. It is also efficient for automating repetitive processes.
 
-[Jupyter Notebook](https://jupyter.org/) is a web-based environment for interactive computing that helps researchers and scientists easily view programming output.
+[Jupyter Notebook](https://jupyter.org/) is a web-based environment for interactive computing that helps researchers and scientists easily view programming output. In contrast to traditional programming environments, users can view output one sectuion at a time, which can help for breaking down tasks and debugging. There is no need for console knowledge.
 
 This workshop uses the [uvic.syzygy.ca](https://uvic.syzygy.ca/) Jupyter Notebook software because it is free for Uvic students and staff to use and avoids the additional hassle of downloading new software. Notebooks are available on [other platforms](https://en.wikipedia.org/wiki/Notebook_interface).
 
