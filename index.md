@@ -12,7 +12,7 @@ nav_order: 1
 - Introductory presentation: 15 min
 - Hands-on activities: 30-60 min
 
-## Why TOOL NAME HERE? 
+## Why Pandas? Why Jupyter Notebook? 
 
 [Pandas](https://pandas.pydata.org/docs/) is an open-source Python library for data structuring and analysis.
 
