@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/pandas-dataframes-logo.png" style="float:right;width:180px;" alt="image description">
+<img src="https://github.com/uviclibraries/data-frames/blob/main/images/pandas-dataframes-logo.svg" style="float:right;width:180px;" alt="Pandas logo">
 
 # Pandas DataFrames in Jupyter Notebooks
 
