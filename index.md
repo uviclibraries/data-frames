@@ -24,7 +24,7 @@ This workshop uses the [uvic.syzygy.ca](https://uvic.syzygy.ca/) Jupyter Noteboo
 
 At the end of this workshop, you will be able to:
 
-1.Input and output code in Jupyter Notebook
+1. Input and output code in Jupyter Notebook
 2. Understand the use cases of the Pandas library
 3. Upload a CSV or Excel file as a dataframe in a python notebook
 4. Output properties of a dataframe
