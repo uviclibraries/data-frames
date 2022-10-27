@@ -1,4 +1,4 @@
-# Pandas DataFrames in Jupyter Notebooks
+# Pandas DataFrames
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/data-frames/
