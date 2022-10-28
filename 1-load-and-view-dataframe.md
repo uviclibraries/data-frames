@@ -63,5 +63,4 @@ Make a new cell and Input `df.count()`. Run the cell. [see in docs](https://pand
 ### 7. Go to the [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html) and find another attribute or method that helps describe your data
 Input and Run it in a new cell.
 
-**UPDATE**
 [NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
