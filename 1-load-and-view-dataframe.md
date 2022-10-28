@@ -36,9 +36,13 @@ parent: Workshop Activities
 
 ## 6. Start to understand your data by viewing some of it's attributes and methods
 `df.shape` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape)
+
 `df.columns` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns)
+
 `df.size` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas.DataFrame.size)
+
 `df.dtypes` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes)
+
 `df.count()` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html)
 
 <details>
