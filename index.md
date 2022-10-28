@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/pandas-dataframes-logo.svg" style="float:right;" alt="Pandas logo">
+<img src="images/pandas-dataframes-logo.svg" style="float:right; width: 180px;" alt="Pandas logo">
 
 # Pandas DataFrames in Jupyter Notebooks
 
