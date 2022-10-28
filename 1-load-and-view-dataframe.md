@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Load and View DataFrame
 
-### 1. upload a csv. You can use your own of the one provided.
+### 1. upload a csv. You can use your own or the one provided.
 <details>
 <summary>Click for navigation help GIF</summary>
 <img src="images\upload-csv.gif">
