@@ -13,10 +13,16 @@ parent: Workshop Activities
 </details>
 
 ### 2. Import the pandas library (I name it "pd" because that's common on help forums)
-### 3. Run your first cell
 
 <details>
 <summary>Click for code help GIF</summary>
+<img src="images\import-pandas.gif">
+</details>
+
+### 3. Run your first cell
+
+<details>
+<summary>Click for navigation help GIF</summary>
 <img src="images\import-pandas.gif">
 </details>
 
@@ -35,15 +41,15 @@ parent: Workshop Activities
 </details>
 
 ### 6. Start to understand your data by viewing some of it's attributes and methods
-`df.shape` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape)
+Make a new cell and Input `df.shape`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape)
 
-`df.columns` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns)
+Make a new cell and Input `df.columns`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns)
 
-`df.size` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas.DataFrame.size)
+Make a new cell and Input `df.size`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas.DataFrame.size)
 
-`df.dtypes` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes)
+Make a new cell and Input `df.dtypes`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes)
 
-`df.count()` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html)
+Make a new cell and Input `df.count()`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html)
 
 <details>
 <summary>Click for code help</summary>
