@@ -25,7 +25,7 @@ Make a new dataFrame with only those columns.
 Use `df.dropna()` to remove NA variables
 <details>
 <summary>Click for code help</summary>
-<im src="data-frames\images\data-frames-Activity-02\drop_na.PNG"> 
+<img src="data-frames\images\data-frames-Activity-02\drop_na.PNG"> 
 </details>
 
 ### 4. Go to the [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html) and find another method to manipulate your data. **you don't have to replace your working DataFrame, you can just make a copy**
