@@ -69,4 +69,4 @@ Make a new cell and Input `df.count()`. Run the cell. [see in docs](https://pand
 ### 8. Go to the [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html) and find another attribute or method that helps describe your data
 Input and Run it in a new cell.
 
-[NEXT STEP: Excel Basics](2-edit-dataframe){: .btn .btn-blue }
+[NEXT STEP: Edit DataFrame](2-edit-dataframe){: .btn .btn-blue }

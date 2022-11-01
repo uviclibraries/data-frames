@@ -31,4 +31,4 @@ Use `df.dropna()` to remove NA variables
 ### 4. Go to the [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html) and find another method to manipulate your data. **you don't have to replace your working DataFrame, you can just make a copy**
 Input and Run it in a new cell.
 
-[NEXT STEP: Excel Basics](2-edit-dataframe){: .btn .btn-blue }
+[NEXT STEP: Visualize DataFrame](3-visualize-dataframe){: .btn .btn-blue }
