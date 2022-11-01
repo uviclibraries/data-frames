@@ -6,7 +6,9 @@ parent: Workshop Activities
 ---
 # Load and View DataFrame
 
-### 1. upload a csv. You can use your own or the one provided.
+### 1. upload a csv. You can use your own or [the one provided](https://raw.githubusercontent.com/uviclibraries/data-frames/main/student-files/Highest%20Holywood%20Grossing%20Movies.csv).
+Right click and select "save as".
+
 <details>
 <summary>Click for navigation help GIF</summary>
 <img src="images\data-frames-Activity-01\upload-csv.gif">
