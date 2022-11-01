@@ -43,7 +43,7 @@ Where you think is appropriate, use the following arguments: `xlabel`, `ylabel`,
 <summary>Click for code help</summary>
 <p>In this chart, the y-label is in scientific notation, which might not be easy for everyone to read. By adding a descriptive ylabel, it becomes easier to understand that the ticks are in billions.</p>
 <p>After adding the y-label, the legend becomes redundant, so it can be removed.</p>
-<p> A title is added to explain what the visualization represents.
+<p> A title is added to explain what the visualization represents.</p>
 <img src="images\data-frames-Activity-03\plot2.PNG"/>
 </details>
 
