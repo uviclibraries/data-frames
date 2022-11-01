@@ -25,10 +25,10 @@ At the end of this workshop, you will be able to:
 
 1. Input and output code in Jupyter Notebook
 2. Understand the use cases of the Pandas library
-3. Upload a CSV or Excel file as a dataframe in a python notebook
+3. Upload a CSV file as a dataframe in a python notebook
 4. Output properties of a dataframe
-5. Delete and add rows and columns to a dataframe
-6. Create 1 visualization using the data from the dataframe
+5. Manipulate rows and columns to a dataframe
+6. Create a visualization using the data from the dataframe
 
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
