@@ -55,10 +55,12 @@ Your image will save in JupyterHub
 <img src="images\data-frames-Activity-03\savefig.PNG"/>
 </details>
 
-### 6. Download the visualization image file do you can share it.
+### 6. Download the visualization image file so you can share it.
 
 a. Go to the files page
+
 b. Checkoff the box next to your image file
+
 c. Select Download
 
 <details>
@@ -66,6 +68,6 @@ c. Select Download
 <img src="images\data-frames-Activity-03\download-plot-img.gif"/>
 </details>
 
-You're done! You've now completed the Pandas DataFrames in Jupyter Notebook Workshop. Thanks for joining us :smile:
+You're done! You've now completed the Pandas DataFrames in Jupyter Notebook Workshop. Thanks for joining us.
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.md){: .btn .btn-blue }
