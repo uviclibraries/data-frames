@@ -7,9 +7,13 @@ nav_order: 2
 This workshop is primarily hands-on practice with Pandas DataFrames in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **Access Jupyter Notebook (2-15 mins)**
-If you have a NetlinkID: Go to https://uvic.syzygy.ca/ and log in using your Uvic account
 
-If you DO NOT have a NetlinkID: https://www.macdentro.com/install-jupyter-notebook-mac/
+If you have a NetlinkID: Go to [uvic.syzygy.ca](https://uvic.syzygy.ca/) and log in using your Uvic account
+
+If you DO NOT have a NetlinkID:
+1. [Download or update Python](https://www.python.org/downloads/windows/) (Macs have python pre-installed, but you may need to update it)
+2. [Download Jupyter Notebook Locally](https://www.macdentro.com/install-jupyter-notebook-mac/)
+3. [Install Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 
 
 **Quick introduction to Jupyter Notebook** (7 min) - https://youtu.be/jZ952vChhuI
