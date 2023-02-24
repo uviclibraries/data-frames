@@ -18,7 +18,7 @@ parent: Workshop Activities
 3. The file should appear at the top of the directory, click **the blue upload** button to confirm the upload
 4. Click *New** in the right-hand corner, and select Python 3 (ipykernel)
 
-<img src="data-frames\images\data-frames-Activity-01\opening a new project jupyter.gif">
+<img src="images\data-frames-Activity-01\opening-a-new-project-jupyter.gif">
 
 ### 2. Import the pandas library by typing `import pandas as pd` in the first cell (I name it "pd" because that's common on help forums)
 
