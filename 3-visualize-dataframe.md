@@ -8,7 +8,8 @@ parent: Workshop Activities
 
 ### 1. Sort your data using `df.sort_values()`. 
 Choose which column you would like to sort by using the `by` argument `by= ['column name']`. The column should be numeric for the following steps.
-would you like to see the top values or bottom values? Set the `ascending` argument to either `False` or `True`.
+would you like to see the top values or bottom values? Set the `ascending` argument to either `False` or `True`. Again, use `inplace=True` to replace your existing DataFrame.
+
 <details>
 <summary>Click for code help</summary>
 <img src="images\data-frames-Activity-03\sort.PNG"/>
@@ -50,12 +51,20 @@ Where you think is appropriate, use the following arguments: `xlabel`, `ylabel`,
 ### 5. Save the plot to a file using `your_plot_name.figure.savefig()`.
 The argument `bbox_inches="tight"` fits the image size to your plot.
 Your image will save in JupyterHub
+
 <details>
 <summary>Click for code help</summary>
 <img src="images\data-frames-Activity-03\savefig.PNG"/>
 </details>
 
-### 6. Download the visualization image file so you can share it.
+### 6. Save your new DataFrame as a CSV `your_final_dataframe_name.to_csv()` and pass a filename you make up as a string for the argument (make sure it ends in ".csv")
+
+<details>
+<summary>Click for code help</summary>
+<img src="images\data-frames-Activity-03\saveCSV.PNG"/>
+</details>
+
+### 7. (optional) Download the visualization image file so you can share it.
 
 a. Go to the files page
 

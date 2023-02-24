@@ -6,52 +6,62 @@ parent: Workshop Activities
 ---
 # Load and View DataFrame
 
-### 1. upload a csv. You can use your own or [the one provided](https://raw.githubusercontent.com/uviclibraries/data-frames/main/student-files/Highest%20Holywood%20Grossing%20Movies.csv).
-Right click and select "save as".
+### 1.a. You can use your own data or [the one provided](https://raw.githubusercontent.com/uviclibraries/data-frames/main/student-files/Highest%20Holywood%20Grossing%20Movies.csv). 
+
+**Go to** the linked URL, right click, select **save as**. 
+
+
+### 1.b. Upload Your CSV and start a new notebook
+
+1. Go to https://uvic.syzygy.ca/ and log in using your Netlink ID
+2. In the **Files** tab, click **upload** in the right hand corner - select your csv.
+3. The file should appear at the top of the directory, click **the blue upload** button to confirm the upload
+4. Click *New** in the right-hand corner, and select Python 3 (ipykernel)
+
+<img src="data-frames\images\data-frames-Activity-01\opening a new project jupyter.gif">
+
+### 2. Import the pandas library by typing `import pandas as pd` in the first cell (I name it "pd" because that's common on help forums)
+
+<img src="images\data-frames-Activity-01\import-pandas.gif">
+
+### 3. Run the cell that you just wrote in:
+
+1. Make sure it is selected (it should be outlined with a blue or green bar next to it)
+2. Click on **Run** in the top navigation pane
 
 <details>
 <summary>Click for navigation help GIF</summary>
-<img src="images\data-frames-Activity-01\upload-csv.gif">
-</details>
-
-### 2. Import the pandas library (I name it "pd" because that's common on help forums)
-
-<details>
-<summary>Click for code help GIF</summary>
 <img src="images\data-frames-Activity-01\import-pandas.gif">
 </details>
 
-### 3. Run your first cell
+### 4. Load your data as a Pandas DataFrame using `pd.read_csv()`. 
 
-<details>
-<summary>Click for navigation help GIF</summary>
-<img src="images\data-frames-Activity-01\import-pandas.gif">
-</details>
+1. Inside the brackets, [the first argument](https://www.w3schools.com/python/gloss_python_function_arguments.asp#:~:text=The%20terms%20parameter%20and%20argument,function%20when%20it%20is%20called.), write your csv file name in quotes (as a string).
+2. The second argument you can include is `header=0` which tells the method that your data has headers on row 0.
 
-### 4. Load your data as a Pandas DataFrame using `pd.read_csv()`
 <details>
 <summary>Click for code help</summary>
-<p>"header = 0" tells the function that your data has headings on row 0</p>
+<p>"header = 0" tells the function that your data has headings on column 0</p>
 <img src="images\data-frames-Activity-01\loading-csv.PNG">
 </details>
 
-### 5. View the top items in your DataFrame using `df.head()`
+### 5. View the top items in your DataFrame using `df.head()`. by default, `head()` shows the top 5 rows of your DataFrame, but pass it any number (less than the number of rows you have) to show more.
+
 <details>
 <summary>Click for code help</summary>
-<p>by default, <b>head()</b> shows the top 5 rows of your DataFrame, but pass it any number to show more</p>
 <img src="images\data-frames-Activity-01\movie-head.PNG">
 </details>
 
 ### 6. Start to understand your data by viewing some of it's attributes and methods
-Make a new cell and Input `df.shape`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape)
+Make a new cell and Input `df.shape`. Run the cell. This returns a tuple with the first value being the number of rows, and the second value being the number of columns [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape)
 
-Make a new cell and Input `df.columns`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns)
+Make a new cell and Input `df.columns`. Run the cell. This returns the name of the columns, or the headers [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns)
 
-Make a new cell and Input `df.size`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas.DataFrame.size)
+Make a new cell and Input `df.size`. Run the cell. This returns the number of items in your data frame (number of rows x number of columns) [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas.DataFrame.size)
 
-Make a new cell and Input `df.dtypes`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes)
+Make a new cell and Input `df.dtypes`. Run the cell. dtypes are the python data type of the values in a cell and also help describe the size of the data. Columns with mixed types are stored with the `object` dtype. [see in docs](https://pandas.pydata.org/docs/user_guide/basics.html#dtypes)
 
-Make a new cell and Input `df.count()`. Run the cell. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html)
+Make a new cell and Input `df.count()`. Run the cell. count the number of items in each col. If n < nrow, then there are blanks. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html)
 
 <details>
 <summary>Click for code help</summary>
