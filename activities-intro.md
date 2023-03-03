@@ -15,10 +15,8 @@ Please review the following [Introductory Slides](https://www.canva.com/design/D
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQFA5VsAU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQFA5VsAU&#x2F;view?utm_content=DAFQFA5VsAU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Pandas Data frames in Jupyter Notebooks</a> by Cairo Sanders
 
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**UPDATE**
 [NEXT STEP: Load and View DataFrame ](1-load-and-view-dataframe.md){: .btn .btn-blue }

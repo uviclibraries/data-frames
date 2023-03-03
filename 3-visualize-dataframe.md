@@ -66,14 +66,16 @@ Your image will save in JupyterHub
 
 ### 7. (optional) Download the visualization image file so you can share it.
 
-a. Go to the files page
+a. Go to the files page by clicking on the JupyterHub Logo
+
+<img src="images\data-frames-Activity-03\JH-logo.PNG"/>
 
 b. Checkoff the box next to your image file
 
 c. Select Download
 
 <details>
-<summary>Click for navigation help</summary>
+<summary>Show/Hide Animation</summary>
 <img src="images\data-frames-Activity-03\download-plot-img.gif"/>
 </details>
 
