@@ -5,6 +5,12 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
+## Intro to Python
+
+<iframe width="560" height="315" src="https://youtu.be/bIjJVKmAz98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Learn Python on w3schools](https://www.w3schools.com/python/python_intro.asp)
+
 ## Pandas DataFrames in Jupyter Notebook Resources
 [More advanced plotting with Matplotlib](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#plotting-directly-with-matplotlib)
 <br>
