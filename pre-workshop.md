@@ -14,6 +14,7 @@ If you DO NOT have a NetlinkID:
 1. [Download or update Python](https://www.python.org/downloads/windows/){:target="_blank"} (Macs have python pre-installed, but you may need to update it)
 2. [Download Jupyter Notebook Locally](https://www.macdentro.com/install-jupyter-notebook-mac/){:target="_blank"}
 3. [Install Pandas](https://pandas.pydata.org/docs/getting_started/install.html){:target="_blank"}
+4. [Install Matplotlib](https://matplotlib.org/stable/users/getting_started/){:target="_blank"}
 
 
 **Quick introduction to Jupyter Notebook** (7 min) - https://youtu.be/jZ952vChhuI
