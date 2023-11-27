@@ -14,11 +14,14 @@ parent: Workshop Activities
 ### 1.b. Upload Your CSV and start a new notebook
 
 1. Go to [syzygy](https://uvic.syzygy.ca/) and log in using your Netlink ID
-2. In the **Files** tab, click **upload** in the right hand corner - select your csv.
-3. The file should appear at the top of the directory, click **the blue upload** button to confirm the upload
-4. Click *New** in the right-hand corner, and select Python 3 (ipykernel)
+2. Your launch screen should have 2 sections. Your files/ directories on the right and the "launcher" on the left.
+<img src="images\data-frames-Activity-01\launch-screen.png">
+3. Select the **upload** button on the files side (right) and select your data file from step 1.a.
+<img src="images\data-frames-Activity-01\upload-button.png">
+4. open a new Python Notebook by clicking on **Python 3 (ipykernel)** under the **Notebook** section on the Launcher side (left)
+<img src="images\data-frames-Activity-01\launch-python-notebook.png">
 
-<img src="images\data-frames-Activity-01\opening-a-new-project-jupyter.gif">
+<mark> Make sure your data file and notebook are in the same folder/ directory! </mark>
 
 ### 2. Import the pandas library by typing `import pandas as pd` in the first cell (I name it "pd" because that's common on help forums)
 
