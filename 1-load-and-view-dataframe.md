@@ -13,7 +13,7 @@ parent: Workshop Activities
 
 ### 1.b. Upload Your CSV and start a new notebook
 
-1. Go to [syzygy](https://uvic.syzygy.ca/) and log in using your Netlink ID
+1. Go to [syzygy](https://syzygy.ca/) and look for your institution under "LAUNCH". Login using your institutional credentials. 
 2. Your launch screen should have 2 sections. Your files/ directories on the right and the "launcher" on the left.
 <img src="images\data-frames-Activity-01\launch-screen.png">
 3. Select the **upload** button on the files side (right) and select your data file from step 1.a.

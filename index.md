@@ -18,7 +18,7 @@ nav_order: 1
 
 [Jupyter Notebook](https://jupyter.org/){:target="_blank"} is a web-based environment for interactive computing that helps researchers and scientists easily view programming output. In contrast to traditional programming environments, users can view output one sectuion at a time, which can help for breaking down tasks and debugging. There is no need for console knowledge.
 
-This workshop uses the [uvic.syzygy.ca](https://uvic.syzygy.ca/){:target="_blank"} Jupyter Notebook software because it is free for Uvic students and staff to use and avoids the additional hassle of downloading new software. Notebooks are available on [other platforms](https://en.wikipedia.org/wiki/Notebook_interface){:target="_blank"}.
+This workshop uses the [syzygy.ca](https://syzygy.ca/){:target="_blank"} Jupyter Notebook software because it is free for several Canadian Institution's students and staff to use and avoids the additional hassle of downloading new software. Notebooks are available on [other platforms](https://en.wikipedia.org/wiki/Notebook_interface){:target="_blank"}.
 
 ## Learning objectives:
 
