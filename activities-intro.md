@@ -19,7 +19,7 @@ Please review the following [Introductory Slides](https://www.canva.com/design/D
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Step 0: Python Definitions and considerations for absolute beginners
+### Step 0: Python Definitions and considerations for beginners
 
 <b>Variable</b>: a variable is a name that stores information. <br>
 Examples: `x=2`, `name="Bob"`
