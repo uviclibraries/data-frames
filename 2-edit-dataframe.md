@@ -23,7 +23,7 @@ Use `df.drop()` to remove any unnecessary rows. The arguments to pass are:
 Make a new dataFrame with only those columns.
 
 1. Use a list with the name of the columns you want to keep as strings (I suggest copy and pasting from previous output)
-2. Use the list as an index/ slice in `df[]` ([About](https://stackoverflow.com/a/50302195))
+2. Use the list as an index/ slice in `df[]` ([About](https://stackoverflow.com/a/50302195){:target="_blank"})
 
 <details>
 <summary>Click for code help</summary>
@@ -36,7 +36,7 @@ Make a new dataFrame with only those columns.
 <img src="images\data-frames-Activity-02\drop_na.PNG"> 
 </details>
 
-### 4. Go to the [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html) and find another method to manipulate your data. **you don't have to replace your working DataFrame, you can just make a copy**
+### 4. Go to the [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html){:target="_blank"} and find another method to manipulate your data. **you don't have to replace your working DataFrame, you can just make a copy**
 Input and Run it in a new cell.
 
 [NEXT STEP: Visualize DataFrame](3-visualize-dataframe){: .btn .btn-blue }
