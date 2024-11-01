@@ -13,7 +13,7 @@ parent: Workshop Activities
 
 ### 1.b. Upload Your CSV and start a new notebook
 
-1. Go to [syzygy](https://syzygy.ca/) and look for your institution under "LAUNCH". Login using your institutional credentials. 
+1. Go to [syzygy](https://syzygy.ca/){:target="_blank"} and look for your institution under "LAUNCH". Login using your institutional credentials. 
 2. Your launch screen should have 2 sections. Your files/ directories on the right and the "launcher" on the left.
 <img src="images\data-frames-Activity-01\launch-screen.png">
 3. Select the **upload** button on the files side (right) and select your data file from step 1.a.
@@ -41,7 +41,7 @@ parent: Workshop Activities
 
 ### 4. Load your data as a Pandas DataFrame using `pd.read_csv()`. 
 
-1. Inside the brackets, [the first argument](https://www.w3schools.com/python/gloss_python_function_arguments.asp#:~:text=The%20terms%20parameter%20and%20argument,function%20when%20it%20is%20called.), write your csv file name in quotes (as a string).
+1. Inside the brackets, [the first argument](https://www.w3schools.com/python/gloss_python_function_arguments.asp#:~:text=The%20terms%20parameter%20and%20argument,function%20when%20it%20is%20called.){:target="_blank"}, write your csv file name in quotes (as a string).
 2. The second argument you can include is `header=0` which tells the method that your data has headers on row 0.
 
 I call the DataFrame `df` because that is convention in documentation and help forums, but you can call it whatever you'd like.
@@ -60,15 +60,15 @@ I call the DataFrame `df` because that is convention in documentation and help f
 </details>
 
 ### 6. Start to understand your data by viewing some of it's attributes and methods
-Make a new cell and Input `df.shape`. Run the cell. This returns a [tuple](https://www.w3schools.com/python/python_tuples.asp) with the first value being the number of rows, and the second value being the number of columns [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape)
+Make a new cell and Input `df.shape`. Run the cell. This returns a [tuple](https://www.w3schools.com/python/python_tuples.asp) with the first value being the number of rows, and the second value being the number of columns [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape){:target="_blank"}
 
-Make a new cell and Input `df.columns`. Run the cell. This returns the name of the columns, or the headers [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns)
+Make a new cell and Input `df.columns`. Run the cell. This returns the name of the columns, or the headers [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns){:target="_blank"}
 
-Make a new cell and Input `df.size`. Run the cell. This returns the number of items in your data frame (number of rows x number of columns) [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas.DataFrame.size)
+Make a new cell and Input `df.size`. Run the cell. This returns the number of items in your data frame (number of rows x number of columns) [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas.DataFrame.size){:target="_blank"}
 
-Make a new cell and Input `df.dtypes`. Run the cell. dtypes are the python data type of the values in a cell and also help describe the size of the data. Columns with mixed types are stored with the `object` dtype. [see in docs](https://pandas.pydata.org/docs/user_guide/basics.html#dtypes)
+Make a new cell and Input `df.dtypes`. Run the cell. dtypes are the python data type of the values in a cell and also help describe the size of the data. Columns with mixed types are stored with the `object` dtype. [see in docs](https://pandas.pydata.org/docs/user_guide/basics.html#dtypes){:target="_blank"}
 
-Make a new cell and Input `df.count()`. Run the cell. count the number of items in each col. If the total number is less than the number of rows, then there are blanks. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html)
+Make a new cell and Input `df.count()`. Run the cell. count the number of items in each col. If the total number is less than the number of rows, then there are blanks. [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html){:target="_blank"}
 
 <details>
 <summary>Click for code help</summary>
