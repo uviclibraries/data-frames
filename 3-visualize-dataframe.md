@@ -26,7 +26,7 @@ The second argument is `columns`. The column or list of columns to order by. In 
 </details>
 
 ### 3. Plot your data using `df.plot()`.
-Use the `kind` argument to choose a plot type. [This article](https://towardsdatascience.com/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6) explains when to choose each kind or plot.
+Use the `kind` argument to choose a plot type. [This article](https://towardsdatascience.com/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6){:target="_blank"} explains when to choose each kind or plot.
 Set the `x` and `y` values by passing the name of a column to each argument.
 <details>
 <summary>Click for code help</summary>
@@ -38,7 +38,7 @@ Set the `x` and `y` values by passing the name of a column to each argument.
 Are there any missing labels that could help a viewer understand the chart better?
 Are there unnecessary chart elements that clutter the visualization?
 What about a title so the view knows what the data represents?
-Where you think is appropriate, use the following arguments: `xlabel`, `ylabel`, `title`, `legend`, `grid`, `figsize` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html)
+Where you think is appropriate, use the following arguments: `xlabel`, `ylabel`, `title`, `legend`, `grid`, `figsize` [see in docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html){:target="_blank"}
 
 <details>
 <summary>Click for code help</summary>
