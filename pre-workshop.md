@@ -12,7 +12,7 @@ Go to [syzygy.ca](https://syzygy.ca/){:target="_blank"} and look for your instit
 
 If you DO NOT have access through your institution:
 
-Try [Google Colab](https://colab.google/) or 
+Try [Google Colab](https://colab.google/){:target="_blank"} or 
 
 1. [Download or update Python](https://www.python.org/downloads/windows/){:target="_blank"} (Macs have python pre-installed, but you may need to update it)
 2. [Download Jupyter Notebook Locally](https://www.macdentro.com/install-jupyter-notebook-mac/){:target="_blank"}
