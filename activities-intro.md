@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 
-Please review the following [Introductory Slides](https://www.canva.com/design/DAFQFA5VsAU/IKlz3Xeh5q1EJKWgeRr6ng/view?utm_content=DAFQFA5VsAU&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+Please review the following [Introductory Slides](https://www.canva.com/design/DAFQFA5VsAU/IKlz3Xeh5q1EJKWgeRr6ng/view?utm_content=DAFQFA5VsAU&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent){:target="_blank"}
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -42,7 +42,7 @@ Example: `import pandas` now I would have access to the methods and objects that
 
 <b>Environment</b>: The place in which you run your code. Your variables and libraries are saved here until the environment is cleared. In a jupyter notebook, you have to clear the environment manually.
 
-<b>File paths</b>: file paths are a surprisingly important aspect of programming, it's important to understand how they work. If you don't feel confident about file paths, check out this [File Paths resource by codecademy](https://www.codecademy.com/resources/docs/general/file-paths) <br>
+<b>File paths</b>: file paths are a surprisingly important aspect of programming, it's important to understand how they work. If you don't feel confident about file paths, check out this [File Paths resource by codecademy](https://www.codecademy.com/resources/docs/general/file-paths){:target="_blank"} <br>
 Example: `/home/user/data-analysis/scripts/main.py`
 
 [NEXT STEP: Load and View DataFrame ](1-load-and-view-dataframe.md){: .btn .btn-blue }
