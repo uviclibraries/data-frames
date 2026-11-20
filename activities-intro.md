@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 1
 parent: Workshop Activities
 ---
-# Hands-On Activities Introduction
+# Introduction for Self-Directed Learners
 
 Please review the following [Introductory Slides](https://www.canva.com/design/DAFQFA5VsAU/IKlz3Xeh5q1EJKWgeRr6ng/view?utm_content=DAFQFA5VsAU&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent){:target="_blank"}
 
